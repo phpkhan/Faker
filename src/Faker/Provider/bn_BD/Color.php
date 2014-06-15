@@ -1,6 +1,6 @@
 <?php
 
-namespace Faker\Provider\bn_BG;
+namespace Faker\Provider\bn_BD;
 
 class Color extends \Faker\Provider\Color
 {
